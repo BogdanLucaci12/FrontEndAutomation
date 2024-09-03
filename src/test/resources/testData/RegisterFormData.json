@@ -1,0 +1,21 @@
+{
+ "genderValue":"Mr.",
+ "nameValue": "bogdan",
+ "emailAdressValue": "bogdan@gmail.com",
+ "passwordValue": "1254Bogdan",
+ "dayValue": "25",
+ "monthValue": "May",
+ "yearValue": "2010",
+ "firstNameValue": "Bogdan",
+ "lastNameValue": "Grigore",
+ "companyValue": "SC Erbasu SRL",
+ "adress1Value": "Str. Iasomiei, nr.43, bloc: p4",
+ "adress2Value": "Inca ceva la adresa",
+ "countryValue": "Australia",
+ "cityValue": "Cluj",
+ "stateValue": "Romania",
+ "zipCodeValue": "15155",
+ "phoneNumber": "077777777",
+ "incorrectEmailValue": "marius@gmail.com",
+ "incorrectPasswordValue": "1515d3d3q"
+}
